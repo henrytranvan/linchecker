@@ -1,0 +1,5 @@
+name: 'Link checker'
+type: module
+description: 'Periodically checks for broken links in node types, blocks and fields and reports the results.'
+core: 8.x
+configure: linkchecker.admin_settings_form
